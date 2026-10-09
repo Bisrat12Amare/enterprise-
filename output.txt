@@ -1,0 +1,14 @@
+StudentsDB database created successfully.
+Students table created successfully.
+Student data inserted successfully.
+
+First five students:
+ID: 1, Name: John Doe, Grade: 90
+ID: 2, Name: Abebe Kebede, Grade: 85
+ID: 3, Name: Marta Tesfaye, Grade: 92
+ID: 4, Name: Dawit Haile, Grade: 78
+ID: 5, Name: Sara Mohammed, Grade: 88
+
+Updated rows: 1
+Deleted rows: 1
+Average Grade: 86.3
